@@ -10,7 +10,7 @@
     "semantic-ui-react": "^0.77.0"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts start",
     "server": "json-server --watch db.json -p 8002"
   },
   "browserslist": {
